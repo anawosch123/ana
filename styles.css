@@ -11,3 +11,8 @@ width: 100%;
 height: 80px;
 background-color: bisque;
 }
+
+.wraper{
+    display: flex;
+    align-items: center;
+}
