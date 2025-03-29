@@ -1,3 +1,10 @@
+
+.bitter-<uniquifier> {
+    font-family: "Bitter", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
 *{
     margin: 0%;
     padding: 0%;
