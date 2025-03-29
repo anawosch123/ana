@@ -21,6 +21,9 @@ background-color: bisque;
 }
 
 .logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 70px;
     height: 70px;
     border-radius: 100%;
