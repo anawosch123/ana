@@ -44,7 +44,9 @@ background-color: bisque;
 
 .navigation{
     display: flex;
+    justify-content: flex-end;
 }
 .navigation li{
     margin: 40px;
+
 }
